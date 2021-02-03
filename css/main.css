@@ -2905,7 +2905,7 @@ blockquote {
   align-items: center;
   width: 5rem;
   height: 5rem;
-  background-color: greenyellow;
+  background-color: black;
   border-radius: 50%;
   box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
 }
